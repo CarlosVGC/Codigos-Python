@@ -10,3 +10,5 @@ cadena='hola mUndo'
 print(cadena.title()+ ' title() Imprime cada letra inicial de la cadena en M')
 print(cadena.lower())
 print(cadena.upper())
+cad="hola"
+print(cad)
