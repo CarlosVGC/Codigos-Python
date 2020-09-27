@@ -12,3 +12,6 @@ print(cadena.lower())
 print(cadena.upper())
 cad="hola"
 print(cad)
+
+#concatenacion
+print("Hola "+ "Esto es "+ "Python")
