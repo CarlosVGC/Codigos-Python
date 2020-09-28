@@ -14,4 +14,5 @@ cad="hola"
 print(cad)
 
 #concatenacion
-print(cad + "Esto es "+ "Python")
+print(cad + " Esto es "+ "Python")
+print(cadena)
