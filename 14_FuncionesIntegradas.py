@@ -25,5 +25,5 @@ numero6 = round(7.6)
 print(f"redondeo de 7.6 es {numero6}")
 
 numero7 = eval('5+6')
-print(f"eval(5+6) {numero7}")
+print(f"eval(5+6): {numero7}")
 
