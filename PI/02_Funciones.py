@@ -33,5 +33,5 @@ lista2 = ['1','2','3']
 lista3 = lista1 + lista2 #concatena 2 listas
 print(lista3)
 
-lista3=lista3*3
+lista3=lista3*3 # se puede concatenar repeticiones de las listas
 print(lista3)
