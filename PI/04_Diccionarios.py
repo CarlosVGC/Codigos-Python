@@ -34,7 +34,6 @@ def dic3(): #diccionarios con listas, tuplas, diccionarios
     print(pais.values())
     print(len(pais))
 
-#dic()
-#dic2()
+dic()
+dic2()
 dic3()
-
