@@ -12,3 +12,10 @@ exam = float(input("Ingrese la calificacion de las examen: "))
 cal = (pract*.40)+(part*.20)+(exam*.40)
 
 print(f"La calificacion del alumno es: {cal:.2f}")
+a=0
+while True:
+    print("Hola")
+    if(a >=1000):
+        break
+    a+= 1
+    
