@@ -18,3 +18,4 @@ print(f'Mi grupo favorito es: {grupofav} {comentario}') #otro tipo de formateo p
 
 num1, num2 = 1, 2
 print(str(num1)+str(num2))
+
